@@ -8,7 +8,7 @@ describe('ticketListReducer', () => {
     location: "4b",
     issue: "Reduz action is not working correctly.",
     id: 1
-  };
+  }; 
  
   const currentState = {
     1: {names: 'Ryan & Aimen',
